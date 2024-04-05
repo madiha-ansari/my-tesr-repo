@@ -1,0 +1,12 @@
+{
+  "name": "cli-number--guessing",
+  "version": "1.0.0",
+  "description": "This is cli based number guessing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
